@@ -15,7 +15,7 @@ Collaborated on a student-focused blog platform with features like:
 - Content fetching with efficient SQL querying
 
 ### **Paystack Integration**
-Implemented seamless Paystack payment solutions for one-time payments and subscriptions.
+- Implemented seamless Paystack payment solutions for one-time payments and subscriptions.
 
 ## 📚 What I’m Learning
 - Advanced API integrations
