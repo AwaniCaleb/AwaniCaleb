@@ -1,11 +1,30 @@
-- 👋 Hi, I’m @AwaniCaleb
-- 👀 I’m interested in learning new technologies and getting better at the old ones 😁
-- 🌱 I’m currently learning Node.js and it's actually quite fun
-- 💞️ I’m looking to collaborate on ethical hacking and game programming
-- 📫 You can email me at awanicaleb@gmail.com
--- Anything you feel I need to be a better programmer, please let me know.
+# Hi there, welcome
 
-Thanks guys 😘🥰
+I’m **Caleb**, a Computer Science student and software developer passionate about crafting web applications and learning new technologies.  
+
+## 🔧 Skills  
+- **Languages:** PHP, JavaScript, HTML/CSS, SQL
+- **Frameworks & Tools:** Markdown, API integration, MySQL, Git
+- **Interests:** Backend development, payment systems, and user experience and interface design
+
+## 🌟 Notable Projects
+### **Student Blog Platform**
+Collaborated on a student-focused blog platform with features like:
+- Article and category management
+- User authentication and interactions (comments, likes, etc)
+- Content fetching with efficient SQL querying
+
+### **Paystack Integration**
+Implemented seamless Paystack payment solutions for one-time payments and subscriptions.
+
+## 📚 What I’m Learning
+- Advanced API integrations
+- Modern web frameworks
+- Payment gateways and international donation platforms
+
+## 🤝 Let’s Collaborate!
+I’m always open to collaborating on exciting projects and learning from other developers. Let’s connect and build something amazing together!
+
 
 <!---
 AwaniCaleb/AwaniCaleb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
