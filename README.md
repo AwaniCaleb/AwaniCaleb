@@ -18,9 +18,8 @@ Collaborated on a student-focused blog platform with features like:
 - Implemented seamless Paystack payment solutions for one-time payments and subscriptions.
 
 ## 📚 What I’m Learning
-- Advanced API integrations
-- Modern web frameworks
-- Payment gateways and international donation platforms
+- MVC and Advanced API integrations
+- Cyber Security
 
 ## 🤝 Let’s Collaborate!
 I’m always open to collaborating on exciting projects and learning from other developers. Let’s connect and build something amazing together!
