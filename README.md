@@ -15,8 +15,12 @@
 ---
 
 ### 💫 About Me
-I’m **Caleb**, a Computer Science student pivoting from web development into **offensive security**.  
+I’m **Caleb**, a Computer Science student pivoting from web development into **offensive security**.
 Diving deep into red teaming and penetration testing—crafting payloads, simulating real-world attacks, and sharpening my security mindset. My web-dev background keeps me grounded in full-stack fundamentals while I build out my pentesting toolkit.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AwaniCaleb/AwaniCaleb/output/github-snake-dark.svg" />
+</div>
 
 ---
 
@@ -26,6 +30,14 @@ Diving deep into red teaming and penetration testing—crafting payloads, simula
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaniCaleb&layout=compact&theme=dark&hide_border=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwaniCaleb&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AwaniCaleb&theme=onedark&no-frame=true&column=7&margin-w=15" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AwaniCaleb&theme=dark&layout=compact" />
 </div>
 
 ---
@@ -87,6 +99,23 @@ Diving deep into red teaming and penetration testing—crafting payloads, simula
 ### ⌨️ Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
+
+### 🛡️ Cybersecurity Profiles
+<div align="left">
+  <a href="https://tryhackme.com/p/AwaniCaleb" target="_blank"><img src="https://tryhackme-badges.vercel.app/api/user/badge/AwaniCaleb" alt="TryHackMe Badge"></a>
+  <a href="https://app.hackthebox.com/profile/AwaniCaleb" target="_blank"><img src="https://www.hackthebox.eu/badge/image/AwaniCaleb" alt="HackTheBox Badge"></a>
+</div>
+
+---
+
+### 🎵 Currently Playing
+<div align="left">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=AwaniCaleb&cover_image=true&theme=dark">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=AwaniCaleb&cover_image=true&theme=dark" />
+  </a>
+</div>
 
 ---
 
