@@ -1,90 +1,99 @@
-<!-- Dark-mode-friendly: use "for-the-badge" style with a dark background color (#2F3136) -->
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=Awani%20Caleb&fontSize=90&animation=fadeIn&fontAlignY=38" />
 
-# `awanicaleb:/$`  █
+  <h1>Red Team Aspirant | Pentester-in-Training | CS Student</h1>
 
-**Red Team Aspirant · Pentester-in-Training · CS Student**
-
-[![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-SY0--601-2F3136?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.comptia.org/certifications/security)  
-[![CCNA](https://img.shields.io/badge/Cisco%20CCNA-200--301-2F3136?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/go/ccna)  
-[![Python](https://img.shields.io/badge/Python-Intermediate-2F3136?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![Linux](https://img.shields.io/badge/Linux-Studying-2F3136?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/)  
-[![Docker](https://img.shields.io/badge/Docker-Exploring-2F3136?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
-[![Followers](https://img.shields.io/github/followers/AwaniCaleb?label=Followers&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AwaniCaleb?tab=followers)
-
+  <p align="center">
+    <a href="https://linkedin.com/in/AwaniCaleb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://x.com/AwaniCaleb"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://instagram.com/awanicaleb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <br><br>
+    <img src="https://komarev.com/ghpvc/?username=AwaniCaleb&color=2F3136&style=for-the-badge&label=PROFILE+VIEWS" />
+  </p>
 </div>
 
 ---
 
-## About Me
-
+### 💫 About Me
 I’m **Caleb**, a Computer Science student pivoting from web development into **offensive security**.  
 Diving deep into red teaming and penetration testing—crafting payloads, simulating real-world attacks, and sharpening my security mindset. My web-dev background keeps me grounded in full-stack fundamentals while I build out my pentesting toolkit.
 
 ---
 
-## Skills & Tools
-
-<details>
-<summary><strong>🔒 Offensive Security (Current Focus)</strong></summary>
-
-- **Red Teaming:** Adversary simulation, C2 frameworks  
-- **Pentesting:** Recon (nmap, dirsearch), exploitation (Metasploit, custom scripts)  
-- **Scripting:** Python (pwntools, requests), Bash  
-- **Tools:** Burp Suite, Cobalt Strike (learning), Wireshark, BloodHound  
-</details>
-
-<details>
-<summary><strong>💻 Web Development (Legacy)</strong></summary>
-
-- **Languages:** PHP, JavaScript, HTML/CSS, SQL  
-- **Frameworks & Tools:** Node.js, Express, MySQL, Git, Markdown  
-- **Notable Integrations:** Paystack payment, RESTful APIs  
-</details>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AwaniCaleb&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaniCaleb&layout=compact&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AwaniCaleb&theme=dark&hide_border=true" />
+</div>
 
 ---
 
-## Certifications & Learning
+### 🛠️ Skills & Tools
 
-[![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-SY0--601-2F3136?style=for-the-badge&logo=compTIA&logoColor=white)](https://www.comptia.org/certifications/security)  
-[![CCNA](https://img.shields.io/badge/Cisco%20CCNA-200--301-2F3136?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/go/ccna)  
-[![OSCP Prep](https://img.shields.io/badge/OSCP-Prep_Work-2F3136?style=for-the-badge&logo=offensive-security&logoColor=white)](https://www.offensive-security.com/pwk-oscp/)  
-[![Linux](https://img.shields.io/badge/Linux-Studying-2F3136?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/)  
-[![Docker](https://img.shields.io/badge/Docker-Exploring-2F3136?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+#### 🔒 Offensive Security (Current Focus)
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4FD1C5?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-- **Ongoing:**  
-  - CompTIA Security+ (SY0-601)  
-  - Cisco CCNA (200-301)  
-  - OSCP prep  
-- **Learning:** Linux internals, Bash scripting, containerization (Docker)
-
----
-
-## Projects
-
-### 🔧 Web Development (Legacy)
-| Repo                                      | Description                                           |
-|-------------------------------------------|-------------------------------------------------------|
-| Student Blog (Private)                    | Multi-user blog with auth, comments, category management. [Website](https://rsublog.com) |
-| Static Pages                    | Other small websites hosted with vercel. Check repos for details |
-
-### 🛡️ Offensive Security & Pentesting
-| Repo         | Description                                      |
-|--------------|--------------------------------------------------|
-| **coming-soon** | Python-based recon & exploitation tools        |
-| **coming-soon** | Red teaming scripts & C2 modules               |
-
-*Placeholder for future tools—stay tuned!*
+#### 💻 Web Development (Legacy)
+<p align="left">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
 ---
 
-## Get in Touch
+### 🎓 Certifications & Learning
+<p align="left">
+  <a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/CompTIA%20Security%2B-SY0--601-2F3136?style=for-the-badge&logo=compTIA&logoColor=white" /></a>
+  <a href="https://www.cisco.com/go/ccna"><img src="https://img.shields.io/badge/Cisco%20CCNA-200--301-2F3136?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+  <a href="https://www.offensive-security.com/pwk-oscp/"><img src="https://img.shields.io/badge/OSCP-Prep_Work-2F3136?style=for-the-badge&logo=offensive-security&logoColor=white" /></a>
+</p>
 
-- [LinkedIn](https://linkedin.com/in/AwaniCaleb)
-- [Instagram ](https://instagram.com/awanicaleb)
-- [X (Twitter) ](https://x.com/awanicaleb)
+- **Ongoing:** CompTIA Security+ (SY0-601), Cisco CCNA (200-301), OSCP prep.
+- **Learning:** Linux internals, Bash scripting, containerization (Docker).
 
 ---
 
-*Maintained with dark-mode in mind. © 2025 Caleb Awani*  
+### 🚀 Featured Projects
+
+#### 🛡️ Offensive Security & Pentesting
+- **[python-port-scanner](https://github.com/AwaniCaleb/python-port-scanner)**: A high-performance, multi-threaded TCP port scanner built from scratch in Python. Focuses on speed and efficiency in network reconnaissance.
+
+#### 🎓 Professional & Educational
+- **[school-management-system](https://github.com/AwaniCaleb/school-management-system)**: A comprehensive Flask-based ERP system for managing classes, students, exams, and attendance. Features automated PDF result generation and secure role-based access.
+- **[ida](https://github.com/AwaniCaleb/ida)**: The official website for the Ikwerre Development Association. A full-stack PHP/MySQL application featuring a membership system, digital library, and administrative dashboard.
+- **[CompTIA-SG](https://github.com/AwaniCaleb/CompTIA-SG)**: A structured collection of study guides for CompTIA certifications, helping others navigate the path to Security+ and beyond.
+
+#### 🔧 Web Development (Legacy)
+- **[php-mvc](https://github.com/AwaniCaleb/php-mvc)**: A lightweight, secure PHP website template utilizing Model-View-Controller architecture.
+- **[php-auth](https://github.com/AwaniCaleb/php-auth)**: A robust authentication demonstration showcasing multiple sign-in methods, secure form handling, and data persistence.
+
+---
+
+### ⌨️ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 🤝 Connect with Me
+- I'm always open to collaborating on **Open Source** or **Security Research** projects.
+- Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/AwaniCaleb) or [Twitter](https://x.com/AwaniCaleb)!
+
+---
+
+<p align="center"><i>Maintained with dark-mode in mind. © 2025 Caleb Awani</i></p>
