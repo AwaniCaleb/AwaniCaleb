@@ -72,15 +72,15 @@ Diving deep into red teaming and penetration testing—crafting payloads, simula
 
 #### 🛡️ Offensive Security & Pentesting
 - **[python-port-scanner](https://github.com/AwaniCaleb/python-port-scanner)**: A high-performance, multi-threaded TCP port scanner built from scratch in Python. Focuses on speed and efficiency in network reconnaissance.
-- **[phishguard-recon](https://github.com/AwaniCaleb/phishguard-recon)**: An automated reconnaissance tool for gathering intelligence during the early phases of security assessments.
-- **[nex](https://github.com/AwaniCaleb/nex)**: An open-source, Python-based LAN chat application using peer-to-peer connectivity for real-time messaging without internet access.
 
-#### 📚 Resources & Learning
+#### 🎓 Professional & Educational
+- **[school-management-system](https://github.com/AwaniCaleb/school-management-system)**: A comprehensive Flask-based ERP system for managing classes, students, exams, and attendance. Features automated PDF result generation and secure role-based access.
+- **[ida](https://github.com/AwaniCaleb/ida)**: The official website for the Ikwerre Development Association. A full-stack PHP/MySQL application featuring a membership system, digital library, and administrative dashboard.
 - **[CompTIA-SG](https://github.com/AwaniCaleb/CompTIA-SG)**: A structured collection of study guides for CompTIA certifications, helping others navigate the path to Security+ and beyond.
 
 #### 🔧 Web Development (Legacy)
-- **Student Blog (Private)**: A full-stack multi-user blog platform with authentication and content management. [Live Demo](https://rsublog.com)
 - **[php-mvc](https://github.com/AwaniCaleb/php-mvc)**: A lightweight, secure PHP website template utilizing Model-View-Controller architecture.
+- **[php-auth](https://github.com/AwaniCaleb/php-auth)**: A robust authentication demonstration showcasing multiple sign-in methods, secure form handling, and data persistence.
 
 ---
 
